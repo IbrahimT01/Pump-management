@@ -1,4 +1,4 @@
-# ⛽ Shalom Filling Station Management System
+# ⛽ OIL PLUS Management System
 
 A web-based management system tailored for daily operations of a petrol station. It includes separate dashboards for employees and administrators to handle fuel stock, sales, deposits, till money, debts, spares, expenses, and batch history. The system ensures efficiency, transparency, and batch-based tracking for all critical operations.
 
